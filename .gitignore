@@ -1,0 +1,48 @@
+*.html
+
+# Data files
+*.dta
+*.csv
+*.pdf
+
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+
+# SAS output file
+*.lst
+
+# Temporary files from running Stata code in office desktop
+*.TMP
+
+# PDF output - usually a bad idea to keep this in Git
+# However, it will be a bad idea if there are PDF images
+# *.pdf
+
+# Latexmk
+*.fdb_latexmk
+
+# SyncTeX
+*.synctex.gz
+
+# LaTeX Beamer
+*.snm
+*.vrb
+*.nav
+*.out
+
+# BibTeX
+*.bbl
+*.blg
+
+# Endfloats
+*.fff
+*.ttt
+
+# Log created by Adobe Reader
+C:\\nppdf32Log\\debuglog.txt
+
+# Sublime Text Project Files (usually contain absolute paths)
+*.sublime-project
+*.sublime-workspace
